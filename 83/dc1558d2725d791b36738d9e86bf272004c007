@@ -1,0 +1,23 @@
+extensions.toml
+  s_b0a7a8f0806a46::t_83fce8d7f917ec 1698-1701
+.gitmodules
+  s_b0a7a8f0806a46::t_83fce8d7f917ec 1657-1660
+extensions/exact-contract
+  s_b0a7a8f0806a46::t_a241dbaa1eb78e 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "83dc1558d2725d791b36738d9e86bf272004c007",
+  "prompts": {},
+  "sessions": {
+    "s_b0a7a8f0806a46": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c6ea-10d2-7cb1-93b1-66f14a159501",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "LioRael <leo@lenso.dev>"
+    }
+  }
+}
